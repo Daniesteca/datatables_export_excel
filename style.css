@@ -1,0 +1,13 @@
+#excel thead {
+    background-color: rgb(74, 190, 123)!important;
+    color: azure !important;
+}
+
+.page-item.active .page.link {
+    background-color: rgb(74, 190, 123) !important;
+    color: azure !important;
+}
+
+.page-link{
+    color: black !important;
+}
